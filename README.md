@@ -3,4 +3,5 @@
 ### Mi Canal de Youtube 🔴 <br>
 https://www.youtube.com/channel/UCrFEPdOG-jja3W0B13k4_8A 
 
-### Si gustas me puedes Seguir en mi Github: [![GitHub DiegoBazanParra](https://img.shields.io/github/followers/DiegoBazanParra?label=follow&style=social)](https://github.com/DiegoBazanParra)
+### Si gustas me puedes seguir en mi Github: [![GitHub DiegoBazanParra](https://img.shields.io/github/followers/DiegoBazanParra?label=follow&style=social)](https://github.com/DiegoBazanParra)
+<hr>
